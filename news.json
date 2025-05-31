@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-10",
+    "title": "Market Trends",
+    "content": "Property prices are rising fast across major cities due to increased demand and limited supply. Experts predict this trend to continue through the year.",
+    "category": "Update"
+  },
+  {
+    "id": 2,
+    "date": "2025-05-12",
+    "title": "New Suburbs",
+    "content": "Upcoming suburbs on the outskirts are booming with new developments, attracting families and young professionals looking for affordable housing options.",
+    "category": "Location"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-14",
+    "title": "Interest Rate Changes",
+    "content": "The central bank has announced a slight increase in interest rates, which may impact mortgage rates and borrowing costs for homebuyers.",
+    "category": "Finance"
+  },
+  {
+    "id": 4,
+    "date": "2025-05-15",
+    "title": "Sustainable Homes",
+    "content": "Builders are focusing on energy-efficient and sustainable homes, using eco-friendly materials and smart technologies to reduce environmental impact.",
+    "category": "Environment"
+  },
+  {
+    "id": 5,
+    "date": "2025-05-18",
+    "title": "Rental Market Insights",
+    "content": "Rental prices have stabilized after months of volatility, providing some relief to tenants but challenges remain in high-demand areas.",
+    "category": "Rental"
+  },
+  {
+    "id": 6,
+    "date": "2025-05-20",
+    "title": "Housing Policies",
+    "content": "New government housing policies aim to support first-time homebuyers through grants and subsidies, hoping to improve market accessibility.",
+    "category": "Policy"
+  }
+]

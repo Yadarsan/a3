@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Apartment",
+    "description": "Spacious 2-bedroom, 2-bath apartment in the heart of Melbourne with access to all major transport links and stunning city views.",
+    "price": 620000,
+    "location": "Melbourne CBD",
+    "type": "Apartment",
+    "bedrooms": 2
+  },
+  {
+    "id": 2,
+    "title": "Cozy Home",
+    "description": "A charming and affordable 3-bedroom house ideal for a small family, located in a quiet Geelong neighborhood.",
+    "price": 480000,
+    "location": "Geelong",
+    "type": "House",
+    "bedrooms": 3
+  },
+  {
+    "id": 3,
+    "title": "Luxury Villa",
+    "description": "A high-end villa with 5 bedrooms, a private pool, and a large garden. Perfect for luxurious family living in Brighton.",
+    "price": 1250000,
+    "location": "Brighton",
+    "type": "Villa",
+    "bedrooms": 5
+  },
+  {
+    "id": 4,
+    "title": "Beachside Bungalow",
+    "description": "Enjoy ocean views every morning from this 2-bedroom bungalow situated steps from the beach.",
+    "price": 750000,
+    "location": "St Kilda",
+    "type": "Bungalow",
+    "bedrooms": 2
+  },
+  {
+    "id": 5,
+    "title": "Suburban Retreat",
+    "description": "Modern 4-bedroom home with a double garage and backyard. Located near schools and parks in Doncaster.",
+    "price": 820000,
+    "location": "Doncaster",
+    "type": "House",
+    "bedrooms": 4
+  }
+]
